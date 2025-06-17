@@ -1,5 +1,4 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
-import build from "next/dist/build";
 
 export interface User {
   userId: string;

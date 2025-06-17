@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react'
 import Header from '@/app/(components)/Header';
-import { Label } from 'recharts';
 
 type UserSetting = {
     label: string;
