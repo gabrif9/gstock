@@ -1,5 +1,4 @@
 # Project Overview
-
 This application is a full-stack platform featuring a backend server built with **Node.js** and **Express**, and a frontend developed using **Next.js**. The platform is designed for scalability, reliability, and ease of deployment.
 
 > **Note:** This project was built by following a tutorial and serves as a learning exercise to gain more experience with AWS, Node.js, and Next.js.
@@ -23,6 +22,10 @@ This application is a full-stack platform featuring a backend server built with 
 
 - The platform is deployed on AWS using EC2 for compute, S3 for storage, and Amplify for CI/CD.
 - Any push to the GitHub repository triggers an automatic build and deployment via Amplify.
+
+## Live Demo
+
+You can view an example of the deployed application here: [https://main.d1yzobwlxc86xn.amplifyapp.com/dashboard](https://main.d1yzobwlxc86xn.amplifyapp.com/dashboard)
 
 ## License
 
